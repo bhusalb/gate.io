@@ -1,0 +1,26 @@
+{
+  "name": "gate.io",
+  "version": "1.0.0",
+  "description": "\"Gate.io API wrapper for Node.js.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bhusalb/gate.io.git"
+  },
+  "keywords": [
+    "\"Gate.io",
+    "API",
+    "wrapper\""
+  ],
+  "author": "Bishnu Bhusal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhusalb/gate.io/issues"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
