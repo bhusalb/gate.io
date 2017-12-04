@@ -1,4 +1,8 @@
 # Nodejs wrapper for Gate.io API2
+
+#### Installation
+``` npm install gate.io```
+
 #### Basic Usage
 ```javascript
 var GateIo = require('gate.io');
